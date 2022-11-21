@@ -6,16 +6,24 @@ let mouseX = window.innerWidth * 0.75;
 let x = 0;
 
 
+
+
 /*--------------------
            Options
            --------------------*/
-const opt = {
-  radius: 300,
+let opt = {
+  radius: 330,
   radiusY: 0.4,
-  maxSpeed: 0.04,
+  maxSpeed: 0.01,
   maxRotation: 50,
   minOpacity: 0.3,
-  spacer: '*' };
+  spacer: '*' 
+  
+
+};
+
+
+
 
 
 
@@ -35,6 +43,7 @@ const lerp = (v0, v1, t) => {
    --------------------*/
 let letter;
 const createInvaders = () => {
+  
   const word = document.querySelector('.word');
   const Letters = word.innerHTML.replace(/\s/g, opt.spacer).split('').reverse();
   word.innerHTML = '';
@@ -83,9 +92,17 @@ animate();
 /*--------------------
            Events
            --------------------*/
+
+
 const handleMouse = e => {
   mouseX = e.clientX || e.touches[0].clientX;
 };
+
+
 window.addEventListener('mousemove', handleMouse);
 window.addEventListener('touchstart', handleMouse);
 window.addEventListener('touchmove', handleMouse);
+
+
+
+

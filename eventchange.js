@@ -8,7 +8,23 @@ const port= document.querySelector(".menu-item3");
 const contact = document.querySelector(".menu-item4");
 const menubtn = document.querySelector(".menubtn")
 const menubtn2 = document.querySelector(".menubtn2")
-const menu = document.querySelector(".menu")
+const menu = document.querySelector(".menu");
+const body = document.querySelector(".body");
+const word = document.querySelector(".word");
+const indexbody = document.querySelector(".index-body")
+
+//----------------------------------------------------팔레트기능
+
+const white = document.querySelector(".white");
+const orange = document.querySelector(".orange");
+const green = document.querySelector(".green");
+const pink = document.querySelector(".pink");
+
+const head = document.querySelector(".head");
+
+
+
+
 
 const mouseenter = {
   item: function handleTitleenter() {
@@ -41,6 +57,8 @@ const mouselevave = {
     item2: function handleTitleleave() {
         about.style.color = colors
         about.style.paddingRight  = "0px"
+        
+        
     },
     item3: function handleTitleleave() {
         port.style.color = colors
@@ -54,19 +72,22 @@ const mouselevave = {
    
 }
 
+/*-----------------------------------*/
+
+
 
 const mouseclick = {
   item: function handleTitleenter() {
     home.style.color = colors;
     home.style.fontSize = "30px"
     home.style.paddingLeft = "10px"
+ 
 
    
   },
   item2: function handleTitleenter() {
-    about.style.color = colors;
-    about.style.paddingLeft = "10px"
-   
+     
+
   },
   item3: function handleTitleenter() {
     port.style.color = colors;
@@ -88,6 +109,22 @@ const mouseclick = {
     menubtn2.style.display = "none"
 
   }
+ 
+  
+
+};
+
+
+
+const colorchange= {
+  item1: function handleTitleenter() {
+    indexbody.style.color = "white"
+   
+
+  }
+
+  
+  
 
 };
 
@@ -104,6 +141,7 @@ home.addEventListener("mouseleave", mouselevave.item);
 
 about.addEventListener("mouseenter", mouseenter.item2);
 about.addEventListener("mouseleave", mouselevave.item2);
+about.addEventListener("click", mouseclick.item2)
 
 
 port.addEventListener("mouseenter", mouseenter.item3);
@@ -114,10 +152,6 @@ contact.addEventListener("mouseenter", mouseenter.item4);
 contact.addEventListener("mouseleave", mouselevave.item4);
 menubtn.addEventListener("click", mouseclick.item5)
 menubtn2.addEventListener("click", mouseclick.item6)
-
-
-
-
 
 
 
