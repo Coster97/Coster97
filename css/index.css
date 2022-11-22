@@ -43,6 +43,7 @@ span {
     text-align: end;
     border-radius: 30px;
     visibility: inherit;
+
     
     
 }
@@ -130,7 +131,7 @@ span {
     flex-direction: row;
     position: absolute;
     top:35%;
-    margin-left: 7%;
+    margin-left: 9%;
     width: 100%;
     animation: fadein 3s;
     
@@ -315,7 +316,7 @@ span {
     display: flex;
     padding: 3%;
     text-align: right;
-    bottom: 5%;
+    bottom: 2%;
   
 }
 
@@ -355,4 +356,7 @@ i{
 img{
     border: 1.9px solid rgb(158, 78, 144);;
 
+}
+.menubtn2id {
+    color:wheat
 }

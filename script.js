@@ -14,7 +14,7 @@ let x = 0;
 let opt = {
   radius: 330,
   radiusY: 0.4,
-  maxSpeed: 0.01,
+  maxSpeed: 0.03,
   maxRotation: 50,
   minOpacity: 0.3,
   spacer: '*' 
