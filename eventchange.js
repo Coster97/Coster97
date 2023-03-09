@@ -56,12 +56,12 @@ const mouseenter = {
    
   },
   item3: function handleTitleenter() {
-
+    port.style.marginRight = "5px"
 
   },
   item4: function handleTitleenter() {
    
-   
+    contact.style.marginRight = "5px"
 
     
     
