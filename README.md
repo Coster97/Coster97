@@ -12,7 +12,7 @@
 
 ## Projects
 
-- NMRS (IOS) - 학교 연습실 예약 서비스 (진행중)
+- NMRS (iOS) - 학교 연습실 예약 서비스 (진행중)
 - Babpool (Android, iOS, Web) - 배달 서비스 (진행중)
 
 <br>
