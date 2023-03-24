@@ -14,6 +14,7 @@ Since 2021.9~
 
 - NMRS (iOS) - 학교 연습실 예약 서비스 (진행중)
 - Babpool (Android, iOS, Web) - 배달 서비스 (진행중)
+- 오공이 (Web) - 커뮤니티 서비스 (진행중)
 
 <br>
 
