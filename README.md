@@ -9,7 +9,7 @@ Since 2021.9~
 
 ## Backend Developer
 
-- Language : Java, Javascript, Swift
+- Language : Java, Javascript
 - Framework : Spring, Node.js
 - DataBase : MySQL, MongoDB
 
