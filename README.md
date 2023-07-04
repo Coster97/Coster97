@@ -18,14 +18,15 @@ Since 2021.9~
 ## Backend Developer
 
 - Language : Java, Javascript
-- Framework : Spring, Node.js
+- Framework : Spring, Express
 - DataBase : MySQL, MongoDB
 
 ## Projects
 
-- NMRS (iOS) - 학교 연습실 예약 서비스 (진행중)
-- Babpool (Android, iOS, Web) - 배달 서비스 (진행중)
-- 오공이 (Web) - 커뮤니티 서비스 (진행중)
+- NMRS(학교 연습실 예약 서비스)
+- Babpool(배달 서비스)
+- 오공이(커뮤니티 서비스)
+- LEAFY(식물관리 서비스)
 
 <br>
 
