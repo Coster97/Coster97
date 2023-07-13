@@ -3,8 +3,8 @@
 ### 흡수력 최강! 스펀지 같은 신입 개발자 박은경입니다.
 <br>
 
-<br>
-Since 2021.9~<br>
+
+Since 2021.9~<br><br>
 ## Backend Developer
 
 - Language : Java, Javascript
