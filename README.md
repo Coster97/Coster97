@@ -11,7 +11,7 @@ Since 2021.9~<br><br>
 - Framework : Spring, Express
 - DataBase : MySQL, MongoDB
 
-front (html/css, jsp, swiftUI, react)
+Front - html/css, jsp, swiftUI, react
 
 ## Projects
 
