@@ -11,6 +11,8 @@ Since 2021.9~<br><br>
 - Framework : Spring, Express
 - DataBase : MySQL, MongoDB
 
+front (html/css, jsp, swiftUI, react)
+
 ## Projects
 
 - NMRS(학교 연습실 예약 서비스)
