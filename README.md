@@ -10,8 +10,7 @@ Since 2021.9~<br><br>
 - Language : Java, Javascript
 - Framework : Spring, Express
 - DataBase : MySQL, MongoDB
-
-Front - html/css, jsp, swiftUI, react
+- 
 
 ## Projects
 
