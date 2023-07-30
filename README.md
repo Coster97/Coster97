@@ -6,7 +6,7 @@
 
 <br>
 
-### 🌱 Backend Developer
+### Backend Developer
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-### 🌱 Projects
+### Projects
 
 <br>
 
