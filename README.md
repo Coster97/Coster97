@@ -6,13 +6,17 @@
 
 <br>
 
-### Backend Developer
+### 🌱 Backend Developer
+
+<br>
 
 - Language: Java, Javascript
 - Framework: Spring, Express
 - Database: MySQL, MongoDB
 
-### Projects
+### 🌱 Projects
+
+<br>
 
 - NMRS (학교 연습실 예약 서비스)
 - Babpool (배달 서비스)
