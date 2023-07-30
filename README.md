@@ -1,11 +1,11 @@
 ## COSTER97 | 🧽
-<br>
-흡수력 최강! 스펀지 같은 신입 개발자 박은경입니다.
-<br>
+<br></br>
+## 흡수력 최강! 스펀지 같은 신입 개발자 박은경입니다.
+<br></br>
 
 
 <br>
-Backend Developer
+## Backend Developer
 
 - Language : Java, Javascript
 - Framework : Spring, Express
