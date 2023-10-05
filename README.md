@@ -30,7 +30,7 @@
 
 <div align="start">
 
-(프로그래머스 플랫폼 이용중 😀)
+(프로그래머스 이용중 😀)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsrud1501222)](https://solved.ac/dmsrud1501222/) <img src="http://mazandi.herokuapp.com/api?handle=dmsrud1501222&theme=dark"/>
 
