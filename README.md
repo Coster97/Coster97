@@ -25,19 +25,5 @@ Git, GitHub, VS Code
 
 ---
 
-### ✨ 진행한 프로젝트
-
-- [비즈하우스 E2E 테스트 자동화 프로젝트](https://github.com/Coster97/BizHows-E2Etest-automation)  
-- [쿠팡 회원가입/로그인 테스트 자동화](https://github.com/Coster97/coupang-test-automation)  
-- (추가 예정) React, Firebase 기반 개인 프로젝트
-
----
-
-### 🌱 지금은 이런 걸 하고 있어요!
-- 실무형 테스트 자동화 코드 리팩토링 및 리포트 구조 개선 중  
-- 다양한 테스트 도구와 API 기반 QA 역량 확장  
-
----
-
 ### 📫 연락하기
 **Email**: dmsrud1501222@naver.com  
