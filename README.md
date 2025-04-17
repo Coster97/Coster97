@@ -18,10 +18,7 @@ Playwright, Allure Report, Checkly, Google Sheets (테스트 케이스 관리), 
 JavaScript, TypeScript, React, Firebase (Auth / Firestore / Hosting)
 
 **Database**  
-MySQL (기초 쿼리 및 ERD 이해), Firestore
-
-**Tooling & Version Control**  
-Git, GitHub, VS Code
+MySQL, Firestore
 
 ---
 
